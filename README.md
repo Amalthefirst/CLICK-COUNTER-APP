@@ -1,1 +1,1 @@
-This is a counter click app
+This is a click counter app
